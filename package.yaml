@@ -1,0 +1,4 @@
+name: rotaryencoder
+description: Creates background task to execute lambdas for rotary encoders.
+environment:
+  sdk: ^2.0.0-alpha.195
