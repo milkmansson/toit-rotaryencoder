@@ -3,6 +3,7 @@
 ## This Package - so I can keep reference material with source:
 .reference/
 .backups/
+.backup/
 
 ## Toit
 .packages/
